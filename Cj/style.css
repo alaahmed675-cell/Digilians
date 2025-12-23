@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* global  */
+.pading-top-bottom {
+     padding: 5% 0%;
+}
+.bg-color {
+    background-color: gray;
+}
+.container {
+    width: 80%;
+    margin: auto;   
+}
+.ds_inline {
+    display: inline-block;
+}
+.WD {
+    width: 30%;
+}
+.hr-orange{
+    margin: 3% 0%;
+    width: 30%;
+    border: solid orange 2px; 
+}
+
+/* custom */
